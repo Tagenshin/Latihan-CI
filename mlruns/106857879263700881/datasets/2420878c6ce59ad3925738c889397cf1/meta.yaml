@@ -1,0 +1,12 @@
+digest: 451bf221
+name: dataset
+profile: '{"num_rows": 1407, "num_elements": 11256}'
+schema: '{"mlflow_colspec": [{"type": "long", "name": "InternetService", "required":
+  true}, {"type": "long", "name": "OnlineSecurity", "required": true}, {"type": "long",
+  "name": "TechSupport", "required": true}, {"type": "long", "name": "Contract", "required":
+  true}, {"type": "long", "name": "PaymentMethod", "required": true}, {"type": "long",
+  "name": "SeniorCitizen", "required": true}, {"type": "long", "name": "MonthlyCharges",
+  "required": true}, {"type": "long", "name": "TotalCharges", "required": true}]}'
+source: '{"tags": {"mlflow.user": "trioa", "mlflow.source.name": "modelling.py", "mlflow.source.type":
+  "LOCAL"}}'
+source_type: code

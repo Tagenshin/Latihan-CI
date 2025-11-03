@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1762144600135
+current_stage: None
+description: ''
+last_updated_timestamp: 1762144600135
+name: CreditScoringModel_LogReg
+run_id: 81e6b554cb3c42569dd1fe40f6b3270a
+run_link: ''
+source: mlflow-artifacts:/106857879263700881/81e6b554cb3c42569dd1fe40f6b3270a/artifacts/model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/106857879263700881/81e6b554cb3c42569dd1fe40f6b3270a/artifacts/model
+user_id: null
+version: 7

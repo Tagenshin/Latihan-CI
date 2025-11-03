@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/106857879263700881/506e748c5a6a4a1e875722f4d9347360/artifacts
+end_time: 1762144764612
+entry_point_name: ''
+experiment_id: '106857879263700881'
+lifecycle_stage: active
+run_id: 506e748c5a6a4a1e875722f4d9347360
+run_name: industrious-gull-658
+run_uuid: 506e748c5a6a4a1e875722f4d9347360
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762144750408
+status: 3
+tags: []
+user_id: trioa

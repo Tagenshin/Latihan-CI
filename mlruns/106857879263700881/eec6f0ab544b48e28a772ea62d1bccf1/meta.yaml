@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/106857879263700881/eec6f0ab544b48e28a772ea62d1bccf1/artifacts
+end_time: 1762143486642
+entry_point_name: ''
+experiment_id: '106857879263700881'
+lifecycle_stage: active
+run_id: eec6f0ab544b48e28a772ea62d1bccf1
+run_name: polite-quail-643
+run_uuid: eec6f0ab544b48e28a772ea62d1bccf1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762143475424
+status: 3
+tags: []
+user_id: trioa

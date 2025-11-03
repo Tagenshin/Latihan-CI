@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/106857879263700881/62a0698049d3465aab4a0be6656e708e/artifacts
+end_time: 1762142289819
+entry_point_name: ''
+experiment_id: '106857879263700881'
+lifecycle_stage: active
+run_id: 62a0698049d3465aab4a0be6656e708e
+run_name: LR_C1_solver_lbfgs
+run_uuid: 62a0698049d3465aab4a0be6656e708e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762142288723
+status: 3
+tags: []
+user_id: trioa

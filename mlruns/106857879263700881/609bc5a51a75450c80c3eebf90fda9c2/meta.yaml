@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/106857879263700881/609bc5a51a75450c80c3eebf90fda9c2/artifacts
+end_time: 1762142348985
+entry_point_name: ''
+experiment_id: '106857879263700881'
+lifecycle_stage: active
+run_id: 609bc5a51a75450c80c3eebf90fda9c2
+run_name: blushing-worm-93
+run_uuid: 609bc5a51a75450c80c3eebf90fda9c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762142337275
+status: 3
+tags: []
+user_id: trioa

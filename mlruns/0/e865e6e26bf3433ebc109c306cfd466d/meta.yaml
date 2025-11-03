@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e865e6e26bf3433ebc109c306cfd466d/artifacts
+end_time: 1762140662086
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e865e6e26bf3433ebc109c306cfd466d
+run_name: nervous-dolphin-73
+run_uuid: e865e6e26bf3433ebc109c306cfd466d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762140598354
+status: 3
+tags: []
+user_id: trioa
